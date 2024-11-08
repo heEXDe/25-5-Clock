@@ -1,2 +1,4 @@
-# 25-5-Clock
-A CodePen pen. The solution to one of the credit projects from FreeCodeCamp "Front End Development Libraries"
+# 25+5 clock
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/heEXDe/pen/BaXmxpP](https://codepen.io/heEXDe/pen/BaXmxpP).
+

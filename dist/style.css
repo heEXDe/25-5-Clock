@@ -1,0 +1,23 @@
+#clock {
+  margin: auto;
+  border: 3px solid black;
+  border-radius: 25px;
+  width: 400px;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  background-color: rgb(102, 102, 153);
+}
+
+#display {
+    margin: auto;
+    border: 1px solid black;
+    width: 250px;
+    text-align: center;
+    padding: 10px;
+}
+button {
+  height: 30px;
+  width: 40px;
+}
+#text, #author, #new-quote , #tweet-quote {padding: 10px;}
